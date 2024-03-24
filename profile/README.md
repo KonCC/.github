@@ -27,7 +27,7 @@
 ### 클린코드
 |          발표일           |                                       챕터                                        |        발표자       |    발표자료  |
 | :---------------------: | :-----------------------------------------------------------------------------: | :----------------: | :--------: |
-| 07.04 |        1장 깨끗한 코드, 2장 의미 있는 이름        |   홍승택   | [chapter 1, 2](https://github.com/KonCC/clean-code/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%201%2C%202.pdf)|
+| 23.07.04 |        1장 깨끗한 코드, 2장 의미 있는 이름        |   홍승택   | [chapter 1, 2](https://github.com/KonCC/clean-code/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%201%2C%202.pdf)|
 | 07.06 |        3장 함수, 4장 주석        |   김동민   | [chapter 3, 4](https://github.com/KonCC/clean-code/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%203%2C%204.pdf)|
 | 07.11 |        5장 형식 맞추기, 6장 객체와 자료 구조        |   황유란   | [chapter 5, 6](https://github.com/KonCC/clean-code/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%205%2C%206.pdf)|
 | 07.13 |        7장 오류 처리, 8장 경계, 9장 단위 테스트        |   박성준   | [chapter 7, 8, 9](https://github.com/KonCC/clean-code/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%207%2C%208%2C%209.pdf)|
@@ -40,7 +40,7 @@
 ### 클린 아키텍처
 |          발표일           |                                       챕터                                        |        발표자       |    발표자료  |
 | :---------------------: | :-----------------------------------------------------------------------------: | :----------------: | :--------: |
-| 08.03 |        1장, 2장        |   박성준   | [chapter 1-2]() |
+| 23.08.03 |        1장, 2장        |   박성준   | [chapter 1-2]() |
 | 08.08 |        3장, 4장        |   홍승택   | [chapter 3-4](https://github.com/KonCC/clean-architecture/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%203%2C%204.pdf) |
 | 08.10 |        5장, 6장, 7장, 8장, 9장, 10장, 11장        |   강대훈   | [chapter 5-11](https://github.com/KonCC/clean-architecture/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%205%2C%206%2C%207%2C%208%2C%209%2C%2010%2C%2011.pdf) |
 | 08.23 |        12장, 13장, 14장, 15장        |   황유란   | [chapter 12-15]() |
@@ -52,7 +52,7 @@
 ### 테스트 주도 개발
 |          발표일           |                                       챕터                                        |        발표자       |    발표자료  |
 | :---------------------: | :-----------------------------------------------------------------------------: | :----------------: | :--------: |
-| 08.03 |        1장, 2장, 3장        |   강대훈   | [chapter 1-3](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%201%2C%202%2C%203.pdf) |
+| 23.08.03 |        1장, 2장, 3장        |   강대훈   | [chapter 1-3](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%201%2C%202%2C%203.pdf) |
 | 08.08 |        4장, 5장, 6장        |   황유란   | [chapter 4-6](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%204%2C%205%2C%206.pdf) |
 | 08.15 |        7장, 8장, 9장, 10장, 11장, 12장        |   박성준   | [chapter 7-12](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%207%2C%208%2C%209%2C%2010%2C%2011%2C%2012.pdf) |
 | 08.25 |        13장, 14장, 15장, 16장, 17장        |   홍승택   | [chapter 13-17](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2013%2C%2014%2C%2015%2C%2016%2C%2017.pdf) |
@@ -60,3 +60,19 @@
 | 09.12 |        22장, 23장, 24장, 25장        |   황유란   | [chapter 22-25](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2022%2C%2023%2C%2024%2C%2025.pdf) |
 | 09.19 |        26장, 27장, 28장, 29장        |   박성준   | [chapter 26-29](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2026%2C%2027%2C%2028%2C%2029.pdf) |
 | 09.26 |        30장, 31장, 32장        |   홍승택   | [chapter 30-32](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2030%2C%2031%2C%2032.pdf) |
+
+### 이펙티브 자바
+|          발표일           |                                       챕터                                        |        발표자       |    발표자료  |
+| :---------------------: | :-----------------------------------------------------------------------------: | :----------------: | :--------: |
+| 24.01.04 |        Chapter 1, item 2        |   강대훈   | [chapter 1, item 2](https://github.com/KonCC/effective-java/blob/main/presentation/chapter1%2Citem2.pdf) |
+| 01.09 |        item 3, 4, 5, 6        |   박지원   | [item 3-6](https://github.com/KonCC/effective-java/blob/main/presentation/item3-item6.pdf) |
+| 01.13 |        item 7, 8, 9        |   홍승택   | [item 7-9](https://github.com/KonCC/effective-java/blob/main/presentation/item7-item9.pdf) |
+| 01.16 |        item 10, 11        |   강대훈   | [item 10-11](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2013%2C%2014%2C%2015%2C%2016%2C%2017.pdf) |
+| 01.23 |        item 12, 13, 14        |   박지원   | [item 12-14](https://github.com/KonCC/effective-java/blob/main/presentation/item12-item14.pdf) |
+| 01.30 |        item 15, 16, 17        |   홍승택   | [item 15-17](https://github.com/KonCC/effective-java/blob/main/presentation/item15-item17.pdf) |
+| 02.06 |        item 18, 19, 20        |   강대훈   | [item 18-20](https://github.com/KonCC/effective-java/blob/main/presentation/item18-item20.pdf) |
+| 02.13 |        item 21, 22, 23, 24, 25        |   박지원   | [item 21-25](https://github.com/KonCC/effective-java/blob/main/presentation/item21-item25.pdf) |
+| 02.20 |        item 26, 27, 28        |   홍승택   | [item 26-28](https://github.com/KonCC/effective-java/blob/main/presentation/item26-item28.pdf) |
+| 02.28 |        item 29, 30, 31        |   강대훈   | [item 28-31](https://github.com/KonCC/effective-java/blob/main/presentation/item28-item31.pdf) |
+| 03.05 |        item 32, 33        |   박지원   | [item 32-33](https://github.com/KonCC/effective-java/blob/main/presentation/item32-item33.pdf) |
+| 03.12 |        item 34, 35, 36        |   홍승택   | [item 34-36](https://github.com/KonCC/effective-java/blob/main/presentation/item34-item36.pdf) |

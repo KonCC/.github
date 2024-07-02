@@ -78,4 +78,13 @@
 | 03.12 |        item 34, 35, 36        |   홍승택   | [item 34-36](https://github.com/KonCC/effective-java/blob/main/presentation/item34-item36.pdf) |
 | 03.19 |        item 37, 38        |   강대훈   | [item 37-38](https://github.com/KonCC/effective-java/blob/main/presentation/item37-item38.pdf) |
 | 03.26 |        item 39, 40, 41        |   박지원   | [item 39-41](https://github.com/KonCC/effective-java/blob/main/presentation/item39-item41.pdf) |
-| 04.02 |        item 42, 43, 44        |   홍승택   | [item 42-44](https://github.com/KonCC/effective-java/blob/main/presentation/item42-item44.pdf) |
+| 04.03 |        item 42, 43, 44        |   홍승택   | [item 42-44](https://github.com/KonCC/effective-java/blob/main/presentation/item42-item44.pdf) |
+| 04.11 |        item 45, 46        |   강대훈   | [item 45-46](https://github.com/KonCC/effective-java/blob/main/presentation/item45-item46.pdf) |
+| 04.30 |        item 47, 48, 49        |   박지원   | [item 47-49](https://github.com/KonCC/effective-java/blob/main/presentation/item47-item49.pdf) |
+| 05.07 |        item 50, 51        |   홍승택   | [item 50-51](https://github.com/KonCC/effective-java/blob/main/presentation/item50-item51.pdf) |
+| 05.14 |        item 52, 53        |   강대훈   | [item 52-53](https://github.com/KonCC/effective-java/blob/main/presentation/item52-item53.pdf) |
+| 05.21 |        item 54, 55, 56        |   박지원   | [item 54-56](https://github.com/KonCC/effective-java/blob/main/presentation/item54-item56.pdf) |
+| 05.28 |        item 57, 58, 59        |   홍승택   | [item 57-59](https://github.com/KonCC/effective-java/blob/main/presentation/item57-item59.pdf) |
+| 06.04 |        item 60, 61, 62, 63        |   강대훈   | [item 60-63](https://github.com/KonCC/effective-java/blob/main/presentation/item60-item63.pdf) |
+| 06.25 |        item 64, 65, 66, 67, 68        |   박지원   | [item 64-68](https://github.com/KonCC/effective-java/blob/main/presentation/item64-item68.pdf) |
+| 07.02 |        item 69, 70, 71, 72        |   홍승택   | [item 69-72](https://github.com/KonCC/effective-java/blob/main/presentation/item69-item72.pdf) |

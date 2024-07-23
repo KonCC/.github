@@ -88,3 +88,6 @@
 | 06.04 |        item 60, 61, 62, 63        |   강대훈   | [item 60-63](https://github.com/KonCC/effective-java/blob/main/presentation/item60-item63.pdf) |
 | 06.25 |        item 64, 65, 66, 67, 68        |   박지원   | [item 64-68](https://github.com/KonCC/effective-java/blob/main/presentation/item64-item68.pdf) |
 | 07.02 |        item 69, 70, 71, 72        |   홍승택   | [item 69-72](https://github.com/KonCC/effective-java/blob/main/presentation/item69-item72.pdf) |
+| 07.09 |        item 73, 74, 75        |   강대훈   | [item 73-75](https://github.com/KonCC/effective-java/blob/main/presentation/item73-item75.pdf) |
+| 07.16 |        item 76, 77, 78        |   박지원   | [item 76-78](https://github.com/KonCC/effective-java/blob/main/presentation/item76-item78.pdf) |
+| 07.23 |        item 79, 80, 81        |   홍승택   | [item 79-81](https://github.com/KonCC/effective-java/blob/main/presentation/item79-item81.pdf) |

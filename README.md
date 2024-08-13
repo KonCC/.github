@@ -7,11 +7,11 @@
 | 2023.07.04 ~ 2023.07.31 |        [클린 코드](https://product.kyobobook.co.kr/detail/S000001032980)        |   로버트 C. 마틴   |  인사이트  | [레포지토리](https://github.com/KonCC/clean-code/tree/main)                    |
 | 2023.08.03 ~ 2023.09.22 |      [클린 아키텍처](https://product.kyobobook.co.kr/detail/S000001033082)      |       로버트 C. 마틴       |  인사이트  | [레포지토리](https://github.com/KonCC/clean-architecture)             |
 | 2023.08.03 ~ 2023.09.26 | [테스트 주도 개발](https://product.kyobobook.co.kr/detail/S000001032985) | 캔트 벡 | 인사이트 | [레포지토리](https://github.com/KonCC/test-driven-development)     |
-| 2024.01.04 ~ 진행 중 | [이펙티브 자바](https://product.kyobobook.co.kr/detail/S000001033066) |조슈아 블로크 | 인사이트 | [레포지토리](https://github.com/KonCC/effective-java)     |
+| 2024.01.04 ~ 2024.08.13 | [이펙티브 자바](https://product.kyobobook.co.kr/detail/S000001033066) |조슈아 블로크 | 인사이트 | [레포지토리](https://github.com/KonCC/effective-java)     |
 
 ## ⭐️ 진행방식
 - 주 2회 오프라인 모임
-  - 스터디 시각 ±2시간 변경까지는 24시간 전(전날 14시)에 말하면 변경 가능
+  - 스터디 시각 ±2시간 변경까지는 24시간 전에 말하면 변경 가능
   - 그 이상의 시간 변경 및 요일 변경은 직전차시 모임에서 말하기
 - 한 명의 발표자(로테이션) - 발표 PPT 준비
 - 자신이 공부하면서 배운점이나 공유할 내용이 있으면 자유롭게 발표
@@ -19,7 +19,7 @@
 
 ## 📝 기록 방식
 - 깃허브에 **공동 레포**로 관리
-  - 발표자가 주가 되어 게시물 작성, 당일 자정까지 업로드
+  - 발표 PPT 업로드
 - 자율적으로 개인 블로그 포스팅
 - 스터디마다 세부사항 조정
 
@@ -91,3 +91,6 @@
 | 07.09 |        item 73, 74, 75        |   강대훈   | [item 73-75](https://github.com/KonCC/effective-java/blob/main/presentation/item73-item75.pdf) |
 | 07.16 |        item 76, 77, 78        |   박지원   | [item 76-78](https://github.com/KonCC/effective-java/blob/main/presentation/item76-item78.pdf) |
 | 07.23 |        item 79, 80, 81        |   홍승택   | [item 79-81](https://github.com/KonCC/effective-java/blob/main/presentation/item79-item81.pdf) |
+|  08.01   |     item 82, 83, 84     | 강대훈 | [item 82-84](https://github.com/KonCC/effective-java/blob/main/presentation/item82-item84.pdf) |
+|  08.06   |     item 85, 86, 87     | 박지원 | [item 85-87](https://github.com/KonCC/effective-java/blob/main/presentation/item85-item87.pdf) |
+|  08.13   |     item 88, 89, 90     | 홍승택 | [item 88-90](https://github.com/KonCC/effective-java/blob/main/presentation/item88-item90.pdf) |
